@@ -1,1 +1,1 @@
-All about graph theory's computer representation
+All about graph's computer representation
